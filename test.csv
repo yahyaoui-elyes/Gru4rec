@@ -1,4 +1,4 @@
-session_id,sequence,ts,user_id
+session_id,song_id,ts,user_id
 122,1762,1420059172,2432
 122,3700,1420059172,2432
 122,638,1420059172,2432
